@@ -41,7 +41,7 @@ Here are some of my featured projects:
 ## 📫 Let's Connect
 
 - 📧 Email: [kaifurrehman46@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-kaif-ur-rehman-a54114256/)
+- 💼 LinkedIn: [Click Here/](https://www.linkedin.com/in/muhammad-kaif-ur-rehman-a54114256/)
 - 🌐 Portfolio: _Coming soon_ 😄
 
 ---
