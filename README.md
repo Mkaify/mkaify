@@ -19,7 +19,7 @@
 
 - **Languages**: Python, JavaScript, C++
 - **Frameworks**: Flask, React, Express, Node.js
-- **Libraries**: OpenCV, TensorFlow, NumPy, Pandas
+- **Libraries**: OpenCV, TensorFlow, NumPy, Pandas, PyTorch
 - **Frontend**: HTML5, Tailwind CSS, Bootstrap
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, GitHub, VSCode, Postman
