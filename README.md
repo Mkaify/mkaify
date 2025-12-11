@@ -33,6 +33,7 @@ Here are some of my featured projects:
 - 🔧 WebEditingApp – Advanced image editor with filters, webcam, and dark mode
 - 🧠 CampusSpecificGPT – NLP-based GPT app trained on university FAQs and student content
 - 🎮 Sudoku Solver AI – Solves Sudoku from image using OpenCV + deep learning
+- 🔉 VoCloneTranslate - AI Dubbing System (Final Year Project)
 
 > Check out more on my [repositories tab »](https://github.com/Mkaify?tab=repositories)
 
