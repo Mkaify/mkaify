@@ -98,3 +98,27 @@ I often turn class projects into real apps — combining creativity with code is
 ⭐️ <i>If you find my work interesting, follow me or star your favorite repo. I'm always happy to collaborate on AI + Web projects!</i>
 </blockquote>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+  <h3>GitHub Analytics</h3>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkaify&theme=tokyonight&hide_border=false" alt="mkaify's streak"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mkaify&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180px" alt="mkaify's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaify&layout=compact&theme=tokyonight&hide_border=false" height="180px" alt="mkaify's Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
