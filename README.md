@@ -9,6 +9,10 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mkaify&label=Profile%20views&color=0e75b6&style=flat" alt="mkaify" />
+</p>
+
 <div align="center">
   <h3>About Me</h3>
 </div>
