@@ -107,7 +107,7 @@ I often turn class projects into real apps — combining creativity with code is
 </div>
 
 <div align="center">
-  [<img src="https://streak-stats.demolab.com/?user=mkaify&theme=tokyonight&hide_border=false" alt="mkaify's streak"/>](https://streak-stats.demolab.com/?user=mkaify&theme=tokyonight&hide_border=false)
+  <img src="https://streak-stats.demolab.com/?user=mkaify&theme=tokyonight&hide_border=false&v=1" alt="mkaify's streak"/>
 </div>
 
 <br>
