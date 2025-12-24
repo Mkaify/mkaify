@@ -85,7 +85,7 @@ Here are some of my recent projects combining AI and Web technologies:
 
 <p align="center">
   📧 Email: <a href="mailto:kaifurrehman46@gmail.com">kaifurrehman46@gmail.com</a><br>
-  🌐 Portfolio: <a href="mkaify.me/" target="_blank">mkaify.me</a>
+  🌐 Portfolio: <a href="https://www.mkaify.me" target="_blank">mkaify.me</a>
 </p>
 
 <br>
