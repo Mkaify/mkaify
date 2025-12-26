@@ -68,6 +68,9 @@ Here are some of my recent projects combining AI and Web technologies:
 * **🧠 CampusSpecificGPT:** NLP-based GPT app trained specifically on university FAQs and student content.
 * **🎮 Sudoku Solver AI:** Solves Sudoku puzzles from images using OpenCV + deep learning.
 * **🔉 VoCloneTranslate:** AI Dubbing System (Final Year Project).
+* **🌐 mkaify.me:** Personal developer portfolio showcasing projects, skills, and experience with a clean, responsive design.
+* **🍔 KaifyFoods.tech:** Full-stack food ordering platform with authentication, cart persistence, and protected user flows.
+* **🛒 KaifCommerce.app:** Scalable e-commerce application featuring product management, user accounts, and secure checkout flow.
 
 > Check out more on my [repositories tab »](https://github.com/Mkaify?tab=repositories)
 
