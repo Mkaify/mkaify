@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mkaify&label=Profile%20views&color=0e75b6&style=flat" alt="mkaify" />
+  <img src="https://komarev.com/ghpvc/?username=mkaify&label=Profile%20Visits&color=0e75b6&style=flat" alt="mkaify" />
 </p>
 
 <div align="center">
